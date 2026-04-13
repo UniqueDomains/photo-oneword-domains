@@ -78,7 +78,7 @@ print(df.head())
 | game.photo       | premium   | $125      | $125          | 120            | 50     | 4      | name.com               |
 | water.photo      | available | $40.98    | —             | 108            | 42     | 5      | namecheap              |
 | smart.photo      | resell    | —         | —             | 74             | 56     | 5      | Dynadot Inc            |
-| design.photo     | premium   | $125      | $125          | 108            | 50     | 6      | name.com               |
+| design.photo     | premium   | $125      | $125          | 108            | 49     | 6      | name.com               |
 | agile.photo      | available | $39.99    | $39.99        | 92             | 41     | 5      | name.com               |
 | bot.photo        | resell    | —         | —             | 98             | 53     | 3      | Porkbun                |
 | security.photo   | premium   | $130      | $130          | 70             | 49     | 8      | namecheap              |
