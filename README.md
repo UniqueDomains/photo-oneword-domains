@@ -1,22 +1,22 @@
-# Available .PHOTO One-Word Domains (9,197)
+# Available .PHOTO One-Word Domains (11,668)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C197%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C197%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C668%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .photo one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .photo one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **11,668 domains** on the canonical page below.
 
-**Public extract:** 9,197 rows · **Live catalog:** 9,197 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,668 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/photo`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .PHOTO one-word domain
 
 ### Files
 
-- `photo.csv` — public CSV extract (9,197 rows)
-- `photo.json` — public JSON extract (9,197 rows)
+- `photo.csv` — public CSV extract (1,000 rows)
+- `photo.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar              |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------- |
-| nationwide.photo | available | $39.99    | $39.99        | 76             | 66     | 10     | name.com               |
-| clean.photo      | resell    | —         | —             | 130            | 99     | 5      | Dynadot Inc            |
-| data.photo       | premium   | $130      | $130          | 70             | 56     | 4      | namecheap              |
-| seventeen.photo  | available | $39.99    | $39.99        | 84             | 62     | 9      | name.com               |
-| mini.photo       | resell    | —         | —             | 70             | 70     | 4      | Amazon Registrar, Inc. |
-| good.photo       | premium   | $125      | $125          | 82             | 55     | 4      | name.com               |
-| athletics.photo  | available | $40.98    | —             | 69             | 52     | 9      | namecheap              |
-| fun.photo        | resell    | —         | —             | 122            | 62     | 3      | NameSilo, LLC          |
-| deep.photo       | premium   | $125      | $125          | 72             | 54     | 4      | name.com               |
-| wizard.photo     | available | $39.99    | $39.99        | 118            | 43     | 6      | name.com               |
-| web.photo        | resell    | —         | —             | 72             | 61     | 3      | Porkbun                |
-| game.photo       | premium   | $125      | $125          | 120            | 50     | 4      | name.com               |
-| water.photo      | available | $40.98    | —             | 108            | 42     | 5      | namecheap              |
-| smart.photo      | resell    | —         | —             | 74             | 56     | 5      | Dynadot Inc            |
-| design.photo     | premium   | $125      | $125          | 108            | 49     | 6      | name.com               |
-| agile.photo      | available | $39.99    | $39.99        | 92             | 41     | 5      | name.com               |
-| bot.photo        | resell    | —         | —             | 98             | 53     | 3      | Porkbun                |
-| security.photo   | premium   | $130      | $130          | 70             | 49     | 8      | namecheap              |
-| forward.photo    | available | $39.99    | $39.99        | 68             | 39     | 7      | name.com               |
-| one.photo        | resell    | —         | —             | 132            | 50     | 3      | Porkbun                |
+| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar             |
+| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------- |
+| makers.photo        | available | $29.99    | $29.99        | 62             | 67     | 6      | namesilo              |
+| mega.photo          | resell    | —         | —             | 74             | 43     | 4      | Ledl.net GmbH & Co KG |
+| Books.photo         | premium   | $140      | $140          | 52             | 49     | 5      | namecheap             |
+| regions.photo       | available | $39.99    | —             | 64             | 59     | 7      | name.com              |
+| robots.photo        | premium   | $116      | $116          | 62             | 47     | 6      | namesilo              |
+| farmers.photo       | available | $39.99    | —             | 54             | 59     | 7      | name.com              |
+| Tools.photo         | premium   | $140      | $140          | 56             | 40     | 5      | namecheap             |
+| keepthechange.photo | available | $39.99    | —             | 46             | 59     | 15     | name.com              |
+| homes.photo         | premium   | $125      | —             | 86             | 34     | 5      | name.com              |
+| agents.photo        | available | $39.99    | —             | 56             | 50     | 6      | name.com              |
+| tickets.photo       | premium   | $116      | $116          | 64             | 34     | 7      | namesilo              |
+| matcha.photo        | available | $39.99    | —             | 86             | 39     | 6      | name.com              |
+| Cats.photo          | premium   | $140      | $140          | 59             | 33     | 4      | namecheap             |
+| lets.photo          | available | $39.99    | —             | 77             | 39     | 4      | name.com              |
+| videos.photo        | premium   | $125      | —             | 52             | 30     | 6      | name.com              |
+| whynot.photo        | available | $39.99    | —             | 74             | 39     | 7      | name.com              |
+| quotes.photo        | premium   | $125      | —             | 58             | 29     | 6      | name.com              |
+| neuroscience.photo  | available | $39.99    | —             | 80             | 37     | 12     | name.com              |
+| dogs.photo          | premium   | $125      | —             | 76             | 28     | 4      | name.com              |
+| payments.photo      | available | $39.99    | —             | 58             | 33     | 8      | name.com              |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,197-row public sample | 9,197 live domains                               |
+| 1,000-row public sample | 11,668 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PHOTO One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PHOTO One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
