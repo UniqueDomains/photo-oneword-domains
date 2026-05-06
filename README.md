@@ -1,10 +1,10 @@
-# Available .PHOTO One-Word Domains (12,139)
+# Available .PHOTO One-Word Domains (12,140)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C139%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C140%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .photo one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,139 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,140 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,139 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,140 domains · **Median ask:** $75.36 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/photo`  
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,14 @@ print(df.head())
 
 | domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar             |
 | ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------- |
+| NYC.photo           | premium   | —         | —             | 82             | 38     | 3      | —                     |
+| matcha.photo        | available | $39.99    | —             | 86             | 39     | 6      | name.com              |
+| edamame.photo       | available | $29.99    | $29.99        | 80             | 9      | 7      | namesilo              |
+| playon.photo        | available | $39.99    | —             | 80             | 14     | 7      | name.com              |
+| hangon.photo        | available | $39.99    | —             | 82             | 6      | 7      | name.com              |
+| dogsick.photo       | available | $39.99    | —             | 90             | 1      | 7      | name.com              |
+| getlife.photo       | available | $39.99    | —             | 80             | 5      | 8      | name.com              |
+| leaveon.photo       | available | $39.99    | —             | 80             | 1      | 8      | name.com              |
 | regions.photo       | available | $39.99    | —             | 64             | 59     | 7      | name.com              |
 | mega.photo          | resell    | —         | —             | 74             | 43     | 4      | Ledl.net GmbH & Co KG |
 | Books.photo         | premium   | $140      | $140          | 52             | 49     | 5      | namecheap             |
@@ -73,17 +81,9 @@ print(df.head())
 | Tools.photo         | premium   | $140      | $140          | 56             | 40     | 5      | namecheap             |
 | agents.photo        | available | $39.99    | —             | 56             | 50     | 6      | name.com              |
 | homes.photo         | premium   | $125      | —             | 86             | 34     | 5      | name.com              |
-| matcha.photo        | available | $39.99    | —             | 86             | 39     | 6      | name.com              |
 | tickets.photo       | premium   | $116      | $116          | 64             | 34     | 7      | namesilo              |
 | lets.photo          | available | $39.99    | —             | 77             | 39     | 4      | name.com              |
 | Cats.photo          | premium   | $140      | $140          | 59             | 33     | 4      | namecheap             |
-| payments.photo      | available | $39.99    | —             | 58             | 33     | 8      | name.com              |
-| videos.photo        | premium   | $125      | —             | 52             | 30     | 6      | name.com              |
-| trends.photo        | available | $39.99    | —             | 60             | 32     | 6      | name.com              |
-| quotes.photo        | premium   | $125      | —             | 58             | 29     | 6      | name.com              |
-| rewards.photo       | available | $29.99    | $29.99        | 62             | 30     | 7      | namesilo              |
-| pages.photo         | premium   | $125      | —             | 52             | 28     | 5      | name.com              |
-| gems.photo          | available | $29.99    | $29.99        | 70             | 28     | 4      | namesilo              |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,139 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 12,140 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is entirely made up of .photo domains, so the key question is not extension variety but name quality inside a single niche TLD. Examples such as NYC.photo, WiFi.photo, LGBTQ.photo, and finals.photo show the range: geo terms, category words, acronyms, and broader keywords. For founders, the strongest options are clear, memorable words that match a visual brand or publishing concept. For investors, the test is tighter: favor terms with obvious commercial relevance, broad recognition, and a realistic path to resale above carrying costs. With a median ask of 75.36, price discipline matters less than picking words that remain useful and defensible over time.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- All names in this selection use the .photo extension
+- Median ask is 75.36 across 12,140 listed domains
+- Prioritize clear words with direct visual or brand fit
+- Check for trademark friction in branded or acronym terms
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PHOTO One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PHOTO One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
