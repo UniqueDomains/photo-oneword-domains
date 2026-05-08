@@ -658,6 +658,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 3c5adfb9-e5f0-4f2d-a5da-7d5cb43b15f1,commonmeter.photo,available,39.99,,68,1,12,name.com,,
 3c9432a0-830d-41b0-b90a-1ea7de82a15f,carryforward.photo,available,39.99,,66,3,13,name.com,,
 3c9ffa62-af9f-4b81-93be-30ec3d277363,onejoke.photo,available,39.99,,70,1,8,name.com,,
+3cbbbb8d-6ecb-4e7b-8538-12cb989422b6,momentum.photo,available,29.99,29.99,78,47,8,namesilo,,
 3cc5e84e-1e66-44b8-aba8-9c5d5be1fb16,havetheblues.photo,available,39.99,,58,1,14,name.com,,
 3cca52f8-9ab2-4928-9a22-44cb0a2aebaf,economyclass.photo,available,39.99,,66,3,13,name.com,,
 3cd231de-0699-4157-aaa4-d3ad0fa49a25,runon.photo,available,39.99,,67,4,6,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 59129b04-09eb-4105-8e06-d6922376349c,gotobatfor.photo,available,39.99,,42,1,13,name.com,,
 59176be5-668a-4123-bc3e-9b5a5df999d6,photographed.photo,available,29.99,29.99,54,3,12,namesilo,,
 591dab99-2eb9-4c78-8537-94a6a8c5c58c,BigMacsauce.photo,available,40.98,,70,1,13,namecheap,,
-593e368a-0da5-4c6c-ad5a-7b7d0fb853c8,payoff.photo,available,39.99,,70,8,7,name.com,,
