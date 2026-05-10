@@ -73,7 +73,7 @@ print(df.head())
 | getlife.photo       | available | $39.99    | —             | 80             | 5      | 8      | name.com              |
 | leaveon.photo       | available | $39.99    | —             | 80             | 1      | 8      | name.com              |
 | regions.photo       | available | $39.99    | —             | 64             | 59     | 7      | name.com              |
-| mega.photo          | resell    | —         | —             | 74             | 43     | 4      | Ledl.net GmbH & Co KG |
+| mega.photo          | resell    | —         | —             | 74             | 41     | 4      | Ledl.net GmbH & Co KG |
 | Books.photo         | premium   | $140      | $140          | 52             | 49     | 5      | namecheap             |
 | farmers.photo       | available | $39.99    | —             | 54             | 59     | 7      | name.com              |
 | robots.photo        | premium   | $116      | $116          | 62             | 47     | 6      | namesilo              |
