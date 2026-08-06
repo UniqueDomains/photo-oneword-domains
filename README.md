@@ -1,10 +1,10 @@
-# Available .PHOTO One-Word Domains (12,143)
+# Available .PHOTO One-Word Domains (12,146)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C143%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C146%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .photo one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,143 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,146 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,143 domains · **Median ask:** $56.12 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,146 domains · **Median ask:** $53.29 · **High-demand under $2,500:** 13
 
-**Last updated:** 2026-07-07
+**Last updated:** 2026-08-06
 **Canonical page:** `https://unique.domains/domains/tld/photo`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar              |
-| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------- |
-| act.photo  | available | $29.99    | $29.99        | high           | low    | 3      | namesilo               |
-| eat.photo  | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC       |
-| bad.photo  | premium   | $116      | $116          | high           | medium | 3      | namesilo               |
-| boo.photo  | available | $39.99    | —             | high           | low    | 3      | name.com               |
-| fun.photo  | resell    | —         | —             | high           | medium | 3      | NameSilo, LLC          |
-| boy.photo  | premium   | $125      | —             | medium         | low    | 3      | name.com               |
-| ham.photo  | available | $29.99    | $29.99        | medium         | low    | 3      | namesilo               |
-| web.photo  | resell    | —         | —             | high           | medium | 3      | Porkbun                |
-| bye.photo  | premium   | $116      | $116          | high           | low    | 3      | namesilo               |
-| its.photo  | available | $29.99    | $29.99        | high           | medium | 3      | namesilo               |
-| mini.photo | resell    | —         | —             | high           | medium | 4      | Amazon Registrar, Inc. |
-| car.photo  | premium   | $116      | $116          | high           | medium | 3      | namesilo               |
-| put.photo  | available | $29.99    | $29.99        | high           | low    | 3      | namesilo               |
-| cod.photo  | premium   | $116      | $116          | high           | low    | 3      | namesilo               |
-| bash.photo | available | $29.99    | $29.99        | high           | low    | 4      | namesilo               |
-| gun.photo  | premium   | $116      | $116          | medium         | low    | 3      | namesilo               |
-| bean.photo | available | $29.99    | $29.99        | medium         | low    | 4      | namesilo               |
-| hub.photo  | premium   | $116      | $116          | high           | medium | 3      | namesilo               |
-| bomb.photo | available | $39.99    | —             | medium         | low    | 4      | name.com               |
-| icu.photo  | premium   | $116      | $116          | high           | low    | 3      | namesilo               |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar              |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------- |
+| feel.photo    | premium   | $116      | $116          | high           | low    | 4      | namesilo               |
+| bad.photo     | premium   | $116      | $116          | high           | medium | 3      | namesilo               |
+| correct.photo | available | $39.99    | $39.99        | high           | low    | 7      | name.com               |
+| damn.photo    | premium   | $125      | $125          | high           | low    | 4      | name.com               |
+| yes.photo     | premium   | $116      | $116          | high           | medium | 3      | namesilo               |
+| act.photo     | available | $29.99    | $29.99        | high           | low    | 3      | namesilo               |
+| eat.photo     | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC       |
+| boo.photo     | available | $39.99    | —             | high           | low    | 3      | name.com               |
+| fun.photo     | resell    | —         | —             | high           | medium | 3      | NameSilo, LLC          |
+| boy.photo     | premium   | $125      | —             | medium         | low    | 3      | name.com               |
+| ham.photo     | available | $29.99    | $29.99        | medium         | low    | 3      | namesilo               |
+| web.photo     | resell    | —         | —             | high           | medium | 3      | Porkbun                |
+| bye.photo     | premium   | $116      | $116          | high           | low    | 3      | namesilo               |
+| its.photo     | available | $29.99    | $29.99        | high           | medium | 3      | namesilo               |
+| mini.photo    | resell    | —         | —             | high           | medium | 4      | Amazon Registrar, Inc. |
+| car.photo     | premium   | $116      | $116          | high           | medium | 3      | namesilo               |
+| lxx.photo     | available | $29.99    | $29.99        | low            | low    | 3      | namesilo               |
+| cod.photo     | premium   | $116      | $116          | high           | low    | 3      | namesilo               |
+| put.photo     | available | $29.99    | $29.99        | high           | low    | 3      | namesilo               |
+| gun.photo     | premium   | $116      | $116          | medium         | low    | 3      | namesilo               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 12,143 live domains                        |
+| 1,000-row public sample | 12,146 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 13 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PHOTO One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PHOTO One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
