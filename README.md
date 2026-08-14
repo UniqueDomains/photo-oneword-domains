@@ -1,10 +1,10 @@
-# Available .PHOTO One-Word Domains (14,343)
+# Available .PHOTO One-Word Domains (15,010)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-14%2C343%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-15%2C010%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .photo one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **14,343 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **15,010 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 14,343 domains · **Median ask:** $48.76 · **High-demand under $2,500:** 15
+**Public extract:** 1,000 rows · **Live catalog:** 15,010 domains · **Median ask:** $48.08 · **High-demand under $2,500:** 15
 
-**Last updated:** 2026-08-13
+**Last updated:** 2026-08-14
 **Canonical page:** `https://unique.domains/domains/tld/photo`
 **Best for:** founders, investors, studios
 
@@ -69,7 +69,6 @@ print(df.head())
 | correct.photo | available | $39.99    | $39.99        | high           | low    | 7      | name.com               |
 | damn.photo    | premium   | $125      | $125          | high           | low    | 4      | name.com               |
 | yes.photo     | premium   | $116      | $116          | high           | medium | 3      | namesilo               |
-| pardon.photo  | available | $29.99    | $29.99        | high           | low    | 6      | namesilo               |
 | act.photo     | available | $29.99    | $29.99        | high           | low    | 3      | namesilo               |
 | eat.photo     | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC       |
 | azo.photo     | premium   | $116      | $116          | low            | low    | 3      | namesilo               |
@@ -84,6 +83,7 @@ print(df.head())
 | lxx.photo     | available | $29.99    | $29.99        | low            | low    | 3      | namesilo               |
 | car.photo     | premium   | $116      | $116          | high           | medium | 3      | namesilo               |
 | put.photo     | available | $29.99    | $29.99        | high           | low    | 3      | namesilo               |
+| cod.photo     | premium   | $116      | $116          | high           | low    | 3      | namesilo               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 14,343 live domains                        |
+| 1,000-row public sample | 15,010 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 15 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PHOTO One-Word Domains*. Version 2026-08-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PHOTO One-Word Domains*. Version 2026-08-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
